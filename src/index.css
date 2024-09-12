@@ -25,6 +25,10 @@ code {
   align-items: center;
   justify-content: space-between;
 }
+.off td {
+  background: #eee;
+  color: #ccc;
+}
 
 .header div:first-child h2 {
   flex: 1;
